@@ -1,5 +1,5 @@
-# open_omada
-Opensource Omada controller
+# OpenOmada
+Open source Omada controller
 
 The omada controller, used for managing tplink omada products, is a java server that enables administration of all omada products easily.
 This controller exist also as a dedicated hardware (OC200 for example) with limitations.
